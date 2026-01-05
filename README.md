@@ -23,3 +23,14 @@ Alternatively and if Chrome Blocks you for installing extensions you can, on a c
 ---
 
 My dream is to bring this to all web browsers... as it should be!
+
+Full Note:
+I do like Microsoft, they were the first real operating system that I got to play with (95) and I really hate what they are doing to it. 
+
+They are literally destroying their own name and their own brand. 
+
+I do support them but I can’t keep supporting them. They’re making it so hard to still like them. 
+
+I mean don’t get me wrong. I have friends that work at Microsoft. They are awesome people. 
+
+It’s not the people it’s the product, you need to fix the product and listen to what the people (remaining emplyees and general public you sell this to) actually want (spoiler: it’s not AI jammed into every aspect of the OS and app)

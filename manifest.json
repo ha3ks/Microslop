@@ -1,15 +1,23 @@
 {
-	"manifest_version": 3,
-	"name": "MicroSLOP",
-	"version": "1.0",
-	"description": "Replaces the text 'Microsoft' with 'Microslop' and others...",
-	"content_scripts": 
-	[
-		{
-			"matches": ["*://*/*"],
-			"js": ["content_script.js"],
-			"run_at": "document_end"
-		}
-	]
+  "manifest_version": 3,
+  "name": "MicroSLOP",
+  "version": "2.0",
+  "description": "Replaces the text 'Microsoft' with 'Microslop' and others...",
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "applications": {
+    "gecko": {
+      "id": "githubprojects@ha3ks.com",
+      "strict_min_version": "109.0"
+    }
+  }
 }
-

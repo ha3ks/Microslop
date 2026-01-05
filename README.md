@@ -1,6 +1,6 @@
 ![](Assets/FullLogo.png)
 
-A chromium based extension that replaces occurrences of 'Microsoft' with 'Microslop' because, at this point whats the difference.
+A web browser extension that replaces occurrences of 'Microsoft' with 'Microslop' because, at this point whats the difference.
 
 Note: This is completey inspired by the work of Steven Frank who made 'Cloud to Butt' - https://github.com/panicsteve and my take on that being 'Musk to Belson' which replaced every instance of Elon Musk with Gavin Belson, for obvious reasons...
 

@@ -14,9 +14,11 @@ You can enable it for all web pages, certain ones or only when you turn it 'off 
 
 # Installation
 
-I have now been able to generate a fully downloadable Chromium based browser .crx file and also an .xpi file for firefox both under 'Installable Extensions'!
+ ̶h̶e̶l̶l̶o̶I̶ ̶h̶a̶v̶e̶ ̶n̶o̶w̶ ̶b̶e̶e̶n̶ ̶a̶b̶l̶e̶ ̶t̶o̶ ̶g̶e̶n̶e̶r̶a̶t̶e̶ ̶a̶ ̶f̶u̶l̶l̶y̶ ̶d̶o̶w̶n̶l̶o̶a̶d̶a̶b̶l̶e̶ ̶C̶h̶r̶o̶m̶i̶u̶m̶ ̶b̶a̶s̶e̶d̶ ̶b̶r̶o̶w̶s̶e̶r̶ ̶.̶c̶r̶x̶ ̶f̶i̶l̶e̶ ̶a̶n̶d̶ ̶a̶l̶s̶o̶ ̶a̶n̶ ̶.̶x̶p̶i̶ ̶f̶i̶l̶e̶ ̶f̶o̶r̶ ̶f̶i̶r̶e̶f̶o̶x̶ ̶b̶o̶t̶h̶ ̶u̶n̶d̶e̶r̶ ̶'̶I̶n̶s̶t̶a̶l̶l̶a̶b̶l̶e̶ ̶E̶x̶t̶e̶n̶s̶i̶o̶n̶s̶'̶!̶
 
-Alternatively and if Chrome Blocks you for installing extensions you can, nn a chromium based browser click the 3 dots > Extensions > Manage Extensions and click on Enable Developer Mode (top right) > 'Load Unpacked' (top left) > Open the downloaded File Directory (no files will be shown just hit submit).
+I have learned how to GitHub and pushed an actial release, check out the side column for 'Releases'
+
+Alternatively and if Chrome Blocks you for installing extensions you can, on a chromium based browser click the 3 dots > Extensions > Manage Extensions and click on Enable Developer Mode (top right) > 'Load Unpacked' (top left) > Open the downloaded File Directory (no files will be shown just hit submit).
 
 ---
 
